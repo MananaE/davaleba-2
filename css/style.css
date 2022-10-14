@@ -1,0 +1,143 @@
+ /*header*/
+ .header-w {
+ 	width: 100%;
+ 	height: 50px;
+ 	position: fixed;
+ 	z-index: 5;
+ 	background: #F6F8F9
+ }
+ .navigation {
+ 	display: inline-block;
+ 	vertical-align: middle;
+ }
+.logo {
+	display: inline-block;
+	font-family: Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #FA6980;
+	vertical-align: -25px;
+	padding: 25px 50px 19px 70px;
+}
+.nav-elements {
+	display: inline-block;
+	padding: 25px 50px 20px 0px;
+}
+.nav-links {
+	font-family: Helvetica, sans-serif;
+	font-size: 11px;
+	color: #343638;
+}
+.inactive-link {
+	opacity: 50%;
+}
+.girl {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 11px 0px 9px 13px;
+}
+
+/*trending  -- not final version */
+main {
+	padding-top: 75px;
+	background: #F6F8F9;
+}
+.trending-w{
+	display: inline-block;
+	width: 1160px;
+	height: 410px;
+	margin-top: 60px;
+	margin-left: 100px;
+}
+.trending-header {
+	font-family: Helvetica, sans-serif;
+	color: #202124;
+	font-weight: bold;
+	font-size: 24px;
+	padding-bottom: 40px;
+}
+.article {
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+	margin-right: 36px;
+}
+.article-image {
+	position: relative;
+}
+.article-title {
+	position: absolute;
+	top: 30px;
+	left: 40px;
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.article-descript {
+	padding: 66px 40px 0px 40px;
+	color: #A6ADB4;
+	font-size: 13px;
+	
+}
+.time-frame {
+	padding: 10px 0px 40px 40px;
+}
+.time {
+	font-family: Helvetica, sans-serif;
+	font-size: 13px;
+	color: #A6ADB4;
+	vertical-align: 3px;
+	padding-left: 10px;
+}
+
+/*happening now*/
+.happening-w {
+	height: 960px;
+	width: 1160px;
+	margin: 58px auto;
+}
+.happening-header {
+	font-family: Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #202124;
+	height: 20px;
+}
+.photos-w {
+	height: 900px;
+	width: 1160px;
+}
+.left-column {
+	display: inline-block;
+	width: 760px;
+	height: 900px;
+	padding-top: 40px;
+}
+.right-column{
+	width: 360px;
+	height: 896px;
+	display: inline-block;
+	margin-left: 36px;
+}
+.text-image {
+	position: relative;
+}
+.text-overlay {
+	position: absolute;
+	color: #FFFFFF;
+	top: 194px;
+	left: 308px;
+	font-family: Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+.left2 {
+	padding-top: 30px;
+}
+.right {
+	padding-bottom: 114px;
+}
+.right2 {
+	padding-bottom: 20px;
+}
